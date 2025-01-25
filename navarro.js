@@ -1,7 +1,7 @@
 function mostrarNavarrete() {
     var container = document.getElementById('navarro');
     var navarro = document.createElement('img');
-    navarro.src = 'imagen/navarro.jpg';
+    navarro.src = 'imagen/navarro.JPG';
     navarro.width = 300;
     navarro.height = 300;
     navarro.alt = 'Navarro';
